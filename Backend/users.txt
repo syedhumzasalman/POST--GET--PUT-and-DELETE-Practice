@@ -1,0 +1,1 @@
+[{"fullName":"Humza Salman","email":"hellohumzasalman@gmail.com","password":"12345689"},{"fullName":"Aman Hussain","email":"helloworld@gmail.com","password":"123456789"},{"fullName":"humza salman","email":"hellohumza@gmail.com","password":"123456789"}]
